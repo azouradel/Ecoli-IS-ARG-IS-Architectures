@@ -33,8 +33,4 @@ These resources are intended to support methodological transparency and facilita
 
 Please cite the associated publication when available.
 
-## Contact
 
-**Adel Azour, PhD**  
-Bioinformatics and Computational Genomics  
-American University of Beirut, Lebanon
