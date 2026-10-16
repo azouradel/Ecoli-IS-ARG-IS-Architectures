@@ -1,20 +1,40 @@
-# Insertion Sequence Architectures and Antimicrobial Resistance in *Escherichia coli*
+# E. coli Insertion Sequence and Antimicrobial Resistance Genomics
+
+This repository contains general-purpose scripts and documentation associated with the comparative genomic analysis of insertion sequences (ISs), antimicrobial resistance genes (ARGs), and plasmid-associated genomic regions in *Escherichia coli*.
 
 ## Overview
 
-This repository is associated with a large-scale comparative genomics study investigating the genomic organization of insertion sequences (ISs) and antimicrobial resistance genes (ARGs) in *Escherichia coli*.
+This study investigates the genomic organization and distribution of insertion sequences and their relationships with antimicrobial resistance determinants across a large collection of *E. coli* genomes.
 
-The research explores the relationships between mobile genetic elements, antimicrobial resistance, plasmid-associated genomic regions, and bacterial population structure.
+The repository provides general computational resources supporting:
 
-## Research Focus
+- Genomic feature analysis
+- Insertion sequence and antimicrobial resistance gene characterization
+- Comparative genomic analysis
+- Statistical analysis
+- Scientific data visualization
 
-- Insertion sequence diversity and genomic distribution
-- Antimicrobial resistance gene organization
-- Mobile genetic elements and plasmid associations
-- Comparative and population genomics
-- Bioinformatics and statistical analyses
+## Repository Structure
 
-## Computational Approach
+- `scripts/` — General-purpose Python scripts for genomic and statistical analyses.
+- `requirements.txt` — Python dependencies required for the included scripts.
 
-The study integrates genome annotation, genomic feature analysis, comparative genomics, and statistical approaches to investigate resistance-associated genomic structures.
+## Data Availability
 
+Genome assemblies analyzed in this study were obtained from publicly available genomic databases. Further information about the datasets and analytical procedures is provided in the associated manuscript and supplementary materials.
+
+## Reproducibility
+
+The scripts included in this repository document general computational approaches relevant to the study. Study-specific input datasets, intermediate files, and unpublished results are not included.
+
+These resources are intended to support methodological transparency and facilitate adaptation of similar approaches to other genomic datasets. They do not constitute a complete reproduction package for all analyses reported in the manuscript.
+
+## Citation
+
+Please cite the associated publication when available.
+
+## Contact
+
+**Adel Azour, PhD**  
+Bioinformatics and Computational Genomics  
+American University of Beirut, Lebanon
